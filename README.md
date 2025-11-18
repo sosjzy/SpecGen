@@ -1,2 +1,2 @@
 # SpecGen
-SpecGen: Neural spectral BRDF generation from a single RGB sphere using Spectral‑Spatial Tri‑plane Aggregation (SSTA).
+This repository implements the SpecGen method described in the paper “Neural Spectral BRDF Generation via Spectral‑Spatial Tri‑plane Aggregation”. SpecGen reconstructs spectral BRDFs from a single RGB sphere image, enabling spectral rendering under arbitrary illuminations and shapes covered by the material capture. The repository includes code for training, inference, evaluation, and scripts to reproduce the main experiments.
