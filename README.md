@@ -1,4 +1,4 @@
-# SpecGen: Single-Image Spectral BRDF Prediction via K-Planes HyperNetwork
+# SpecGen: Neural Spectral BRDF Generation via Spectral-Spatial Tri-plane Aggregation
 
 Official implementation of **SpecGen** (WACV 2026).
 
